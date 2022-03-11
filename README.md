@@ -1,6 +1,8 @@
 # kepler-exoplanet-prediction
 Exoplanet candidate prediction using the KOI dataset.
 
+![image](https://user-images.githubusercontent.com/8168416/157868177-7ed73187-c672-4dbe-a7be-c7111143b29e.png)
+
 ## Description
 The Kepler Space Observatory is a NASA-build satellite that was launched in 2009 in the context of the Kepler mission. The mission's target was to search for exoplanets in external star systems and ended in 2018. Kepler was able to find planets by looking for small dips in the brightness of a star when a planet transits in front of it.
 
